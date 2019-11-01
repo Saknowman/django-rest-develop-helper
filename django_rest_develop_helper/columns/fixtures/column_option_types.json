@@ -1,0 +1,275 @@
+[
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 1,
+    "fields": {
+      "display_name": "null",
+      "value": "null",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#null"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 2,
+    "fields": {
+      "display_name": "blank",
+      "value": "blank",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#blank"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 3,
+    "fields": {
+      "display_name": "choices",
+      "value": "choices",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#choices"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 4,
+    "fields": {
+      "display_name": "db_column",
+      "value": "db_column",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#db_column"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 5,
+    "fields": {
+      "display_name": "db_index",
+      "value": "db_index",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#db_index"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 6,
+    "fields": {
+      "display_name": "db_tablespace",
+      "value": "db_tablespace",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#db_tablespace"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 7,
+    "fields": {
+      "display_name": "default",
+      "value": "default",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#default"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 8,
+    "fields": {
+      "display_name": "editable",
+      "value": "editable",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#editable"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 9,
+    "fields": {
+      "display_name": "error_messages",
+      "value": "error_messages",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#error_messages"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 10,
+    "fields": {
+      "display_name": "help_text",
+      "value": "help_text",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#help_text"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 11,
+    "fields": {
+      "display_name": "primary_key",
+      "value": "primary_key",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#primary_key"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 12,
+    "fields": {
+      "display_name": "unique",
+      "value": "unique",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#unique"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 13,
+    "fields": {
+      "display_name": "unique_for_date",
+      "value": "unique_for_date",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#unique_for_date"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 14,
+    "fields": {
+      "display_name": "unique_for_month",
+      "value": "unique_for_month",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#unique_for_month"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 15,
+    "fields": {
+      "display_name": "unique_for_year",
+      "value": "unique_for_year",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#unique_for_year"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 16,
+    "fields": {
+      "display_name": "verbose_name",
+      "value": "verbose_name",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#verbose_name"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 17,
+    "fields": {
+      "display_name": "Relation Model",
+      "value": "to",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#arguments"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 18,
+    "fields": {
+      "display_name": "Related Name",
+      "value": "related_name",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.related_name"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 19,
+    "fields": {
+      "display_name": "On Delete",
+      "value": "on_delete",
+      "chioces": "CASCADE, PROTECT, SET_NULL, SET_DEFAULT, SET, DO_NOTHING",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.on_delete"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 20,
+    "fields": {
+      "display_name": "Limit Choices To",
+      "value": "limit_choices_to",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.limit_choices_to"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 21,
+    "fields": {
+      "display_name": "Related Query Name",
+      "value": "related_query_name",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.related_query_name"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 22,
+    "fields": {
+      "display_name": "To Field",
+      "value": "to_field",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.to_field"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 23,
+    "fields": {
+      "display_name": "Db Constraint",
+      "value": "db_constraint",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.db_constraint"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 24,
+    "fields": {
+      "display_name": "Swappable",
+      "value": "swappable",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ForeignKey.swappable"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 25,
+    "fields": {
+      "display_name": "Symmetrical",
+      "value": "symmetrical",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ManyToManyField.symmetrical"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 26,
+    "fields": {
+      "display_name": "Through",
+      "value": "through",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ManyToManyField.through"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 27,
+    "fields": {
+      "display_name": "Through Fields",
+      "value": "through_fields",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ManyToManyField.through_fields"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 28,
+    "fields": {
+      "display_name": "Db Table",
+      "value": "db_table",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.ManyToManyField.db_table"
+    }
+  },
+  {
+    "model": "columns.columnoptiontype",
+    "pk": 29,
+    "fields": {
+      "display_name": "Parent Link",
+      "value": "parent_link",
+      "chioces": "True,False",
+      "detail": "https://docs.djangoproject.com/en/2.2/ref/models/fields/#django.db.models.OneToOneField.parent_link"
+    }
+  }
+]

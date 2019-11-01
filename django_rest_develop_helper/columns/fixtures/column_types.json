@@ -1,0 +1,263 @@
+[
+  {
+    "model": "columns.columntype",
+    "pk": 1,
+    "fields": {
+      "display_name": "Auto",
+      "value": "AutoField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#autofield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 2,
+    "fields": {
+      "display_name": "BigAuto",
+      "value": "BigAutoField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#bigautofield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 3,
+    "fields": {
+      "display_name": "BigInteger",
+      "value": "BigIntegerField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#bigintegerfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 4,
+    "fields": {
+      "display_name": "Binary",
+      "value": "BinaryField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#binaryfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 5,
+    "fields": {
+      "display_name": "Boolean",
+      "value": "BooleanField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#booleanfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 6,
+    "fields": {
+      "display_name": "Char",
+      "value": "CharField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#charfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 7,
+    "fields": {
+      "display_name": "Date",
+      "value": "DateField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#datefield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 8,
+    "fields": {
+      "display_name": "DateTime",
+      "value": "DateTimeField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#datetimefield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 9,
+    "fields": {
+      "display_name": "Decimal",
+      "value": "DecimalField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#decimalfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 10,
+    "fields": {
+      "display_name": "Duration",
+      "value": "DurationField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#durationfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 11,
+    "fields": {
+      "display_name": "Email",
+      "value": "EmailField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#emailfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 12,
+    "fields": {
+      "display_name": "File",
+      "value": "FileField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#filefield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 13,
+    "fields": {
+      "display_name": "FilePath",
+      "value": "FilePathField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#filepathfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 14,
+    "fields": {
+      "display_name": "Float",
+      "value": "FloatField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#floatfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 15,
+    "fields": {
+      "display_name": "Image",
+      "value": "ImageField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#imagefield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 16,
+    "fields": {
+      "display_name": "Integer",
+      "value": "IntegerField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#integerfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 17,
+    "fields": {
+      "display_name": "GenericIPAddress",
+      "value": "GenericIPAddressField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#genericipaddressfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 18,
+    "fields": {
+      "display_name": "NullBoolean",
+      "value": "NullBooleanField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#nullbooleanfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 19,
+    "fields": {
+      "display_name": "PositiveInteger",
+      "value": "PositiveIntegerField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#positiveintegerfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 20,
+    "fields": {
+      "display_name": "PositiveSmallInteger",
+      "value": "PositiveSmallIntegerField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#positivesmallintegerfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 21,
+    "fields": {
+      "display_name": "Slug",
+      "value": "SlugField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#slugfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 22,
+    "fields": {
+      "display_name": "SmallInteger",
+      "value": "SmallIntegerField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#smallintegerfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 23,
+    "fields": {
+      "display_name": "Text",
+      "value": "TextField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#textfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 24,
+    "fields": {
+      "display_name": "Time",
+      "value": "TimeField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#timefield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 25,
+    "fields": {
+      "display_name": "URL",
+      "value": "URLField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#urlfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 26,
+    "fields": {
+      "display_name": "UUID",
+      "value": "UUIDField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#uuidfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 27,
+    "fields": {
+      "display_name": "ForeignKey",
+      "value": "ForeignKey",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#foreignkey"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 28,
+    "fields": {
+      "display_name": "ManyToMany",
+      "value": "ManyToManyField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#manytomanyfield"
+    }
+  },
+  {
+    "model": "columns.columntype",
+    "pk": 29,
+    "fields": {
+      "display_name": "OneToOne",
+      "value": "OneToOneField",
+      "detail": "link: https://docs.djangoproject.com/en/2.2/ref/models/fields/#onetoonefield"
+    }
+  }
+]
