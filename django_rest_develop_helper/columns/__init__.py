@@ -1,1 +1,1 @@
-from .apps import ColumnsConfig
+default_app_config = 'columns.apps.ColumnsConfig'
